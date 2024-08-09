@@ -1,0 +1,35 @@
+[
+  {
+    "chat_id": "380789012",
+    "text": "Что-то пошло не так, попробуй еще раз",
+    "parse_mode": "html",
+    "disable_web_page_preview": true,
+    "reply_markup": {
+      "inline_keyboard": [
+        [
+          {
+            "text": "Инструкция",
+            "url": "https://telegra.ph/Instrukciya-02-29-3"
+          }
+        ]
+      ],
+      "keyboard": [
+        [
+          {
+            "text": "Поделиться"
+          }
+        ],
+        [
+          {
+            "text": "Получить"
+          },
+          {
+            "text": "Мои медиа"
+          }
+        ]
+      ],
+      "resize_keyboard": true
+    },
+    "method": "sendmessage"
+  }
+]

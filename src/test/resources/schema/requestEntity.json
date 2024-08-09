@@ -1,0 +1,30 @@
+{
+  "update_id": 226912211,
+  "message": {
+    "message_id": 1154,
+    "from": {
+      "id": 380789012,
+      "first_name": "D",
+      "is_bot": false,
+      "last_name": "S",
+      "username": "Dstels",
+      "language_code": "en"
+    },
+    "date": 1722951201,
+    "chat": {
+      "id": 380789012,
+      "type": "private",
+      "first_name": "D",
+      "last_name": "S",
+      "username": "Dstels"
+    },
+    "text": "/help",
+    "entities": [
+      {
+        "type": "bot_command",
+        "offset": 0,
+        "length": 5
+      }
+    ]
+  }
+}
